@@ -1,4 +1,6 @@
-##Upwork Proposal Template
+Upwork Proposal Template
+-----
+
 Hi {client name}, **If client’s name is not available, use “Hi there” or feel free to get creative**
 
 Thanks for inviting me to submit a proposal. **Start with this only if you have been invited to apply for a job. Otherwise, start below.**
@@ -22,7 +24,8 @@ Thanks
 
 
 
-##Upwork Proposal Example
+Upwork Proposal Example
+-----
 
 Hi **There** !
 
