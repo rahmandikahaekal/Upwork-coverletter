@@ -2,6 +2,7 @@
 
 How to Develop 
 -----
+
 1. Clone this repo `git clone https://github.com/rahmandikahaekal/Upwork-coverletter.git`
 
 2 . Once cloned, use his proposal by copying an existing template and put him in the time of submit proposals at upwork. 
