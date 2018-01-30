@@ -12,7 +12,6 @@ Responsive designs both mobile, tablet or laptop computer even I apply every my 
 - Why should you choose me? because I was able to take responsibility for what the clients entrust to me. My priority in serving clients i.e. the fast- moving, responsibility, diligence, friendly, trustworthy. 
 
 Here are some links to my website: 
-http://rahmandikahaekal.github.io/Resume
 http://rahmandikahaekal.github.io/cvcard 
 http://rahmandikahaekal.github.io/Kaltem 
 http://rahmandikahaekal.github.io/orangetheme 
@@ -23,4 +22,5 @@ http://rahmandikahaekal.github.io/personal_ux
 I look forward to our chat. Have a great day! 
 Thank you for your time 
 
-Best Regards, Rahmandika haekal
+Best Regards, 
+Rahmandika haekal
