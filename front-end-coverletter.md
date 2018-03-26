@@ -14,7 +14,7 @@ Here are some of my most relevant qualifications and accomplishments:
 - Collaborated with UX designers and Back End Developers and ensured coherence between all parties
 - Tested feature prototypes for bugs and user experience
 
-I know how important the details are for a Front End Developer. My keen attention to detail and dedication to solving any problem at hand are what separates me from other candidates with similar qualifications. If you agree that I’d be a good fit for your organization, I would love to schedule an interview at your earliest convenience. `This part is important when we try to convince our client expertise`
+I know how important the details are for a Front End Developer. My keen attention to detail and dedication to solving any problem at hand are what separates me from other candidates with similar qualifications. If you agree that I’d be a good fit for your project, I would love to schedule an interview at your earliest convenience. `This part is important when we try to convince our client expertise`
 
 Sincerely,
 Rahmandika H `Include your name with nickname or fullname`
