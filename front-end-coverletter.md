@@ -2,13 +2,13 @@
 
 Dear Project Owner `or you can change by name of project owner`
 
-I am writing you to apply to the position of Front End Developer. My three years of experience as a Front End Developer for Decker Digital has honed my CSS3 and HTML5 skills, as well as my knowledge of mobile and responsive design.
+I am writing you to apply to the position of Front End Developer. My `years of experience` as a Front End Developer for `the place you work, or you can attach a web project what you ever handle` has honed my CSS3 and HTML5 skills, as well as my knowledge of mobile and responsive design.
 
-My professional experience includes bringing the wireframes of the UX designer to life through HTML5 and CSS3, as well as collaborating with Back End Developers to create a stellar finished product. I think my skills and experience makes me a great fit for Atlas Digital.
+My professional experience includes bringing the wireframes of the UX designer to life through HTML5 and CSS3, as well as collaborating with Back End Developers to create a stellar finished product. I think my skills and experience makes me a great fit for `You can enter the title of the project or the problems faced by the client`.
 
 Here are some of my most relevant qualifications and accomplishments:
 
-- Three years of experience as a Front End Developer for Decker Digital
+- `Insert how many years have you studied this section` of experience as a Front End Developer for a lot of many project
 - Crafted various website features using HTML5 CSS3 and JavaScript
 - Developed and Implemented project scope and timelines based on the design-develop-deploy process
 - Collaborated with UX designers and Back End Developers and ensured coherence between all parties
