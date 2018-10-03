@@ -12,8 +12,8 @@ Hi there!
 Thanks for downloading this Upwork Cover letter template. We hope you find it useful .
 
 Just a few things we wanted to point out before you start.
-   - The sections in bold will need to be personalised by you as relevant to the jobs you apply for. 
-   - You can (and you should) personalise your proposals as much as possible. 
+   - The sections in bold will need to be personalized by you as relevant to the jobs you apply for. 
+   - You can (and you should) personalize your proposals as much as possible. 
    - So as long as you retain the basic elements, feel free to be creative with your proposals.
    - Keep your cover letters short, succinct but packed with information about you and how you can help the client achieve their goals. 
    
